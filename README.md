@@ -47,11 +47,6 @@
 <span>이외에도</span>
 <p>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-  <p>
-    <b>
-      TOEIC 940/  
-    </b>
-    영어로 의사소통이 가능하고 업무에 활용 할 수 있어요
-  </p>
-  
+  <img src="https://img.shields.io/badge/TOEIC940-000000?style=flat-square&logo=&logoColor=white"/>
+   <p>영어로 의사소통이 가능하고 업무에 활용 할 수 있어요</p>
 </p>
