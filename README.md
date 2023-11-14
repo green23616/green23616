@@ -10,15 +10,15 @@
 <h3>Hello</h3>
 <p>
   사람을 이해하고 내가 느끼는 것을 믿으며 나아가는 개발자가 되고 싶습니다.<br/>
-  이전에 개발을 해본적이 없지만 기술의 발전이 데려다 줄 미래에 늘 다가가고 싶었습니다.<br/>
+  저는 이전에 개발을 해본적이 없지만 기술의 발전이 데려다 줄 미래에 늘 다가가고 싶었습니다.<br/>
   이제 멀리서 바라보기보다 직접 그 흐름에 뛰어들어 사람들의 일상을 바꾸고 트렌드를 이끌어나가고 싶습니다.<br/>
-  언젠가 본 스티브 잡스의 연설 중 기억하는 구절이 있습니다.<br/>
+  언젠가 본 스티브 잡스의 글 중 기억하는 구절이 있습니다.<br/>
   인문학, 그리고 인류애가 결합된 기술만이 우리의 가슴을 뛰게하는 무언가를 만들어 낼 수 있다.<br/>
-  이 말을 마음속에 깊이 새기며 꾸준하게 걸어가고 싶습니다.<br/>
+  이 말을 마음속에 깊이 새기며 꾸준하게 걸어가고 싶습니다.</p>
 </p>
   
 <h2>What can I do</h2>
-<span>숙련</span> 
+<span>자신있어요</span> 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
-<span>사용</span>
+<span>가능해요</span>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
