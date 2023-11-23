@@ -2,7 +2,7 @@
 <p> 
   <b>Check my Portfolio!</b> 
   <p>
-    <a href="https://jwk-portfolio.vercel.app/skill" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007054?style=flat-square&logo=vercel&logoColor=white"/></a>
+    <a href="https://jwk-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007054?style=flat-square&logo=vercel&logoColor=white"/></a>
   </p>
 </p>
 
